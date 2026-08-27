@@ -1,0 +1,6 @@
+{
+  "name": "mailcontrol-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend application for the MailControl email operations console"
+}
